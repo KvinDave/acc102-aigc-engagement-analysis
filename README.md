@@ -3,7 +3,7 @@
 
 **Track:** Interactive Tool / Streamlit submission  
 **Live app:** `ADD_YOUR_STREAMLIT_LINK_HERE`  
-**GitHub repository:** `ADD_YOUR_GITHUB_REPO_LINK_HERE`  
+**GitHub repository:**(https://github.com/KvinDave/acc102-aigc-engagement-analysis)  
 **Notebook:** [notebook.ipynb](./notebook.ipynb)  
 **Reflection:** [reflection.md](./reflection.md)
 
