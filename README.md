@@ -2,7 +2,7 @@
 ## Analysis of Factors Affecting Engagement with AIGC-related Notes on Xiaohongshu (Red Note)
 
 **Track:** Interactive Tool / Streamlit submission  
-**Live app:** `ADD_YOUR_STREAMLIT_LINK_HERE`  
+**Live app:** https://acc102-aigc-engagement-analysis-a7fzdugcn9p2jkadaq5ry2.streamlit.app/  
 **GitHub repository:**(https://github.com/KvinDave/acc102-aigc-engagement-analysis)  
 **Notebook:** [notebook.ipynb](./notebook.ipynb)  
 **Reflection:** [reflection.md](./reflection.md)
